@@ -1,5 +1,8 @@
 package com.example.demo.controller;
 
-public class HelloController {
+import org.springframework.web.bind.annotation.RestController;
 
+@RestController
+public class HelloController {
+	
 }
